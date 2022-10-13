@@ -3,8 +3,16 @@
 [![YouTube Badge](https://img.shields.io/badge/-@TECNO%20BROS-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/tecnobros)](https://www.youtube.com/tecnobros) [![Twitter Badge](https://img.shields.io/badge/-@1ly4s0-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/1ly4s0)](https://twitter.com/1ly4s0) [![Instagram Badge](https://img.shields.io/badge/-@1ly4s0-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/1ly4s0)](https://instagram.com/1ly4s0) 
 [![Gmail Badge](https://img.shields.io/badge/-contacto@tecnobros.ml-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contacto@tecnobros.ml)](mailto:contacto@tecnobros.ml)
 
-<!-- This is taken from https://github.com/maddhruv/npm-statistics -->
 
+## Descargas
+
+
+| Name                                                                                                                 | Descargas |
+| -------------------------------------------------------------------------------------------------------------------- | --------- |
+| [tresenrayade1ly4s0ojalanoencuentresestoxd](https://www.npmjs.com/package/tresenrayade1ly4s0ojalanoencuentresestoxd) | 414       |
+| [discord-canvas-spanish-1ly4s0](https://www.npmjs.com/package/discord-canvas-spanish-1ly4s0)                         | 307       |
+| [node-traductor](https://www.npmjs.com/package/node-traductor)                                                       | 82        |
+| **Sum**                                                                                                              | **803**   |
 ![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F1ly4s0_%2Fnpm-statistics%2Fmaster%2Fstats.json)
 
 
