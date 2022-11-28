@@ -10,7 +10,10 @@
 [![Discord](https://img.shields.io/discord/885235460178342009?style=for-the-badge)](https://discord.gg/tecnobros)
 
 ## Youtube
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCRrxALZwtn_D5VsSmnkDhAQ?style=social)](https://youtube.com/tecnobros)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCRrxALZwtn_D5VsSmnkDhAQ?style=for-the-badge)](https://youtube.com/tecnobros)
+
+## Twitter
+[![Twitter](https://img.shields.io/twitter/follow/1ly4s0?style=for-the-badge)](https://twitter.com/1ly4s0)
 
 ## Descargas
 
