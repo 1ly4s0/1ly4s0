@@ -9,6 +9,9 @@
 ### Discord
 [![Discord](https://img.shields.io/discord/885235460178342009?style=for-the-badge)](https://discord.gg/tecnobros)
 
+## Youtube
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCRrxALZwtn_D5VsSmnkDhAQ?style=social)](https://youtube.com/tecnobros)
+
 ## Descargas
 
 
