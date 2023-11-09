@@ -8,8 +8,7 @@
 
 ## ¡Nuevo!
 ### Battly Launcher
-<img alt="Battly Launcher" src="
-https://img.shields.io/github/downloads/1ly4s0/battlylauncher/total?label=Descargas%20de%20Battly&link=https%3A%2F%2Fbattlylauncher.com" />
+<img alt="Battly Launcher" src="https://img.shields.io/github/downloads/1ly4s0/battlylauncher/total?label=Descargas%20de%20Battly&link=https%3A%2F%2Fbattlylauncher.com" />
 
 ### Discord
 [![Discord](https://img.shields.io/discord/885235460178342009?style=for-the-badge)](https://discord.gg/tecno-bros-885235460178342009)
