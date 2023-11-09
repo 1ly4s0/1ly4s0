@@ -19,13 +19,6 @@
 
 ## Descargas
 
-
-| Name                                                                                                                 | Descargas |
-| -------------------------------------------------------------------------------------------------------------------- | --------- |
-| [tresenrayade1ly4s0ojalanoencuentresestoxd](https://www.npmjs.com/package/tresenrayade1ly4s0ojalanoencuentresestoxd) | 414       |
-| [discord-canvas-spanish-1ly4s0](https://www.npmjs.com/package/discord-canvas-spanish-1ly4s0)                         | 307       |
-| [node-traductor](https://www.npmjs.com/package/node-traductor)                                                       | 82        |
-| **Sum**                                                                                                              | **803**   |
 ![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F1ly4s0_%2Fnpm-statistics%2Fmaster%2Fstats.json)
 
 
