@@ -1,5 +1,5 @@
 # 1ly4s0
-## 👋 ¡Hola! Soy 1ly4s0, un desarrollador de videojuegos multiplataforma, BOTS de Discord y webs.
+## 👋 ¡Hola! Soy 1ly4s0, un desarrollador de aplicaciones en electron, videojuegos multiplataforma, BOTS de Discord y webs.
 
 ## Redes Sociales
 
