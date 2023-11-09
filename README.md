@@ -6,6 +6,11 @@
 [![YouTube Badge](https://img.shields.io/badge/-@TECNO%20BROS-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/tecnobros)](https://www.youtube.com/tecnobros) [![Twitter Badge](https://img.shields.io/badge/-@1ly4s0-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/1ly4s0)](https://twitter.com/1ly4s0) [![Instagram Badge](https://img.shields.io/badge/-@1ly4s0-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/1ly4s0)](https://instagram.com/1ly4s0) 
 [![Gmail Badge](https://img.shields.io/badge/-contacto@tecnobros.es-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contacto@tecnobros.es)](mailto:contacto@tecnobros.es)
 
+## ¡Nuevo!
+### Battly Launcher
+<img alt="Battly Launcher" src="
+https://img.shields.io/github/downloads/1ly4s0/battlylauncher/total?label=Descargas%20de%20Battly&link=https%3A%2F%2Fbattlylauncher.com" />
+
 ### Discord
 [![Discord](https://img.shields.io/discord/885235460178342009?style=for-the-badge)](https://discord.gg/tecno-bros-885235460178342009)
 
@@ -17,14 +22,9 @@
 ## Twitter
 [![Twitter](https://img.shields.io/twitter/follow/1ly4s0?style=for-the-badge)](https://twitter.com/1ly4s0)
 
-## Descargas
-
-![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F1ly4s0_%2Fnpm-statistics%2Fmaster%2Fstats.json)
-
 
 ## Especializaciones
 <p>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=white" />
