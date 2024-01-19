@@ -1,4 +1,5 @@
 # 1ly4s0
+[![Discord Presence](https://lanyard.cnrad.dev/api/534767171579019266)](https://discord.com/users/534767171579019266)
 ## 👋 ¡Hola! Soy 1ly4s0, un desarrollador de aplicaciones en electron, videojuegos multiplataforma, BOTS de Discord y webs.
 
 ## Redes Sociales
@@ -13,7 +14,6 @@
 ### Discord
 [![Discord](https://img.shields.io/discord/885235460178342009?style=for-the-badge)](https://discord.gg/tecno-bros-885235460178342009)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/534767171579019266)](https://discord.com/users/534767171579019266)
 
 ## Youtube
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCRrxALZwtn_D5VsSmnkDhAQ?style=for-the-badge)](https://youtube.com/tecnobros)
