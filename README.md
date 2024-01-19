@@ -36,5 +36,9 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-![Stats de 1ly4s0](https://github-readme-stats.vercel.app/api?username=1ly4s0&show_icons=true&theme=dracula&hide=stars,issues)
-
+<p align=center>
+  <a href="https://github.com/1ly4s0"><img src="https://stats.techy.lol/api?username=1ly4s0&count_private=true&show_icons=true&theme=dark&cache_seconds=7200&hide_title=true&include_all_commits=true&card_width=300" /></a>
+  <a href="https://github.com/1ly4s0"><img src="https://stats.techy.lol/api/top-langs/?username=1ly4s0&layout=compact&card_width=306&theme=dark&hide_title=false&langs_count=6" /></a>
+  <br>
+  <a href="https://github.com/1ly4s0"><img src="https://github-readme-streak-stats.herokuapp.com?user=1ly4s0&theme=dark"></a>
+</p>
