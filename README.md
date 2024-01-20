@@ -2,7 +2,9 @@
  1ly4s0
 </h1>
 <h3 align=center>
-👋 ¡Hola! Soy 1ly4s0, un desarrollador de aplicaciones en electron, videojuegos multiplataforma, BOTS de Discord y webs.
+👋 ¡Hola!
+ <br>
+ Soy Ilyas, más conocido como <b>«1ly4s0»</b>. Soy desarrollador de aplicaciones, webs (frontend & backend), juegos y bots de Discord.
  </h3>
  <p align=center>
   
