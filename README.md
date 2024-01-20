@@ -1,11 +1,11 @@
 <h1 align=center size>
  1ly4s0
 </h1>
-<h3 align=center>
+<h2 align=center>
 👋 ¡Hola!
  <br>
  Soy Ilyas, más conocido como <b>«1ly4s0»</b>. Soy desarrollador de aplicaciones, webs (frontend & backend), juegos y bots de Discord.
- </h3>
+ </h2>
  <p align=center>
   
 <img src="https://lanyard.cnrad.dev/api/534767171579019266">
