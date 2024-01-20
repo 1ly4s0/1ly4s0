@@ -5,10 +5,8 @@
  Soy Ilyas, más conocido como <b>«1ly4s0»</b>. Soy desarrollador de aplicaciones, webs (frontend & backend), juegos y bots de Discord.
  </h2>
  <p align=center>
-  
 <img src="https://lanyard.cnrad.dev/api/534767171579019266">
  </p>
-
 <br>
 
 <h1 align=center>
