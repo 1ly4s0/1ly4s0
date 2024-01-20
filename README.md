@@ -1,6 +1,3 @@
-<h1 align=center size>
- 1ly4s0
-</h1>
 <h2 align=center>
 👋 ¡Hola!
  <br>
