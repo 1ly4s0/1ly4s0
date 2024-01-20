@@ -4,8 +4,6 @@
 
 
 ## Redes Sociales
-
-## Youtube
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCRrxALZwtn_D5VsSmnkDhAQ?style=for-the-badge)](https://youtube.com/tecnobros)
  [![Twitter](https://img.shields.io/twitter/follow/1ly4s0?style=for-the-badge)](https://twitter.com/1ly4s0) [![Instagram Badge](https://img.shields.io/badge/-@1ly4s0-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/1ly4s0)](https://instagram.com/1ly4s0) 
 [![Gmail Badge](https://img.shields.io/badge/-contacto@tecnobros.es-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contacto@tecnobros.es)](mailto:contacto@tecnobros.es)
@@ -13,6 +11,7 @@
 ## ¡Nuevo!
 ### Battly Launcher
 <img alt="Battly Launcher" src="https://img.shields.io/github/downloads/1ly4s0/battlylauncher/total?label=Descargas%20de%20Battly&link=https%3A%2F%2Fbattlylauncher.com" />
+
 [![Discord](https://img.shields.io/discord/885235460178342009?style=for-the-badge)](https://discord.gg/tecno-bros-885235460178342009)
 
 
