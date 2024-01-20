@@ -1,6 +1,8 @@
-# 1ly4s0
+<p align=center>
+ # 1ly4s0
 ### 👋 ¡Hola! Soy 1ly4s0, un desarrollador de aplicaciones en electron, videojuegos multiplataforma, BOTS de Discord y webs.
 [![Discord Presence](https://lanyard.cnrad.dev/api/534767171579019266)](https://discord.com/users/534767171579019266)
+</p>
 
 
 ## Redes Sociales
