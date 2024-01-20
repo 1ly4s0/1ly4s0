@@ -6,7 +6,7 @@
  </h3>
  <p align=center>
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/534767171579019266)](https://discord.com/users/534767171579019266)
+<img src="https://lanyard.cnrad.dev/api/534767171579019266">
  </p>
 
 
