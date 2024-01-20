@@ -2,9 +2,11 @@
  1ly4s0
 </h1>
 <h3 align=center>
-### 👋 ¡Hola! Soy 1ly4s0, un desarrollador de aplicaciones en electron, videojuegos multiplataforma, BOTS de Discord y webs.
+👋 ¡Hola! Soy 1ly4s0, un desarrollador de aplicaciones en electron, videojuegos multiplataforma, BOTS de Discord y webs.
  </h3>
+ <p align=center>
 [![Discord Presence](https://lanyard.cnrad.dev/api/534767171579019266)](https://discord.com/users/534767171579019266)
+ </p>
 
 
 
