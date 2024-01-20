@@ -1,6 +1,7 @@
+<h1 align=center>
+ 👋 ¡Hola!
+</h1>
 <h2 align=center>
-👋 ¡Hola!
- <br>
  Soy Ilyas, más conocido como <b>«1ly4s0»</b>. Soy desarrollador de aplicaciones, webs (frontend & backend), juegos y bots de Discord.
  </h2>
  <p align=center>
