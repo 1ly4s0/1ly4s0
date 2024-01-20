@@ -28,6 +28,7 @@
 </h1>
 <p align=center>
 <img alt="Battly Launcher" src="https://img.shields.io/github/downloads/1ly4s0/battlylauncher/total?label=Descargas%20de%20Battly&link=https%3A%2F%2Fbattlylauncher.com" />
+ <br>
  <a href="https://discord.gg/tecno-bros-885235460178342009"><img alt="Battly Launcher" src="https://img.shields.io/discord/885235460178342009?style=for-the-badge" /></a>
 </p>
 
