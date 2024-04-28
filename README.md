@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/banners/534767171579019266/a_f853a258e1d11ccf66281f99ae9d114d.gif?size=1024" align=center>
+<img src="https://cdn.discordapp.com/banners/534767171579019266/a_f853a258e1d11ccf66281f99ae9d114d.gif?size=512" align=center>
 <h1 align=center>
  👋 ¡Hola!
 </h1>
