@@ -2,9 +2,9 @@
 <h1 align=center>
  👋 ¡Hola!
 </h1>
-<h2 align=center>
- Soy Ilyas, más conocido como <b>«1ly4s0»</b>. Soy desarrollador de aplicaciones, webs (frontend & backend), juegos y bots de Discord.
- </h2>
+<h3 align=center>
+ Soy Ilyas, más conocido como <b>«1ly4s0»</b>. Soy desarrollador full stack especializado en aplicaciones web, móviles, y de escritorio, con experiencia en automatización y bots.
+ </h3>
  <p align=center>
 <img src="https://lanyard.cnrad.dev/api/534767171579019266">
  </p>
