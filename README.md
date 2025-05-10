@@ -1,54 +1,50 @@
 <img src="https://cdn.discordapp.com/banners/534767171579019266/a_f853a258e1d11ccf66281f99ae9d114d.gif?size=1024" align=center>
-<h1 align=center>
+<h1>
  👋 ¡Hola!
 </h1>
-<h3 align=center>
- Soy Ilyas, más conocido como <b>«1ly4s0»</b>. Soy desarrollador full stack especializado en aplicaciones web, móviles, y de escritorio, con experiencia en automatización y bots.
- </h3>
- <p align=center>
-<img src="https://lanyard.cnrad.dev/api/534767171579019266">
- </p>
+<h3>
+  Soy Ilyas, también conocido como <b>«1ly4s0»</b>. Desarrollador full stack especializado en aplicaciones web, de escritorio y móviles. Creador de <b>Battly Launcher</b>, con más de 5 millones de descargas. Experto en automatización, bots y desarrollo multiplataforma.
+</h3>
 <br>
 
-<h1 align=center>
- Redes Sociales
-</h1>
-<p align=center>
- <a href="https://youtube.com/tecnobros"><img src="https://img.shields.io/youtube/channel/subscribers/UCRrxALZwtn_D5VsSmnkDhAQ?style=for-the-badge"/></a>
- <a href="https://twitter.com/1ly4s0"><img src="https://img.shields.io/twitter/follow/1ly4s0?style=for-the-badge"/></a>
- <br>
- <a href="mailto:contacto@tecnobros.es"><img src="https://img.shields.io/badge/-contacto@tecnobros.es-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contacto@tecnobros.es"/></a>
+<h2>🧠 Sobre mí</h2>
+<ul>
+  <li>👨‍💻 CEO de TECNO BROS Studios SL</li>
+  <li>🎮 +5M de usuarios en Battly Launcher</li>
+  <li>📦 Desarrollador de apps como Flash Explorer, TECNO RPC, Battly Music</li>
+  <li>📈 SEO y backend propio con analíticas, CDN y sistemas de suscripciones</li>
+</ul>
+
+<br>
+
+<h1>Redes & Contacto</h1>
+<p>
+  📧 <a href="mailto:contacto@tecnobros.es">contacto@tecnobros.es</a><br>
+  🐦 <a href="https://twitter.com/1ly4s0">@1ly4s0</a> en Twitter<br>
+  📺 <a href="https://youtube.com/tecnobros">Canal de YouTube (TECNO BROS)</a><br>
+  💬 <a href="https://discord.gg/tecno-bros-885235460178342009">Comunidad en Discord</a>
 </p>
 
 <br>
-<h1 align=center>
- ¡Nuevo!
- Battly Launcher
-</h1>
-<p align=center>
-<img alt="Battly Launcher" src="https://img.shields.io/github/downloads/1ly4s0/battlylauncher/total?label=Descargas%20de%20Battly&link=https%3A%2F%2Fbattlylauncher.com" />
- <br>
- <a href="https://discord.gg/tecno-bros-885235460178342009"><img alt="Battly Launcher" src="https://img.shields.io/discord/885235460178342009?style=for-the-badge" /></a>
+<h1>🚀 Battly Launcher</h1>
+<p>
+  Proyecto principal: launcher multiplataforma para Minecraft con música, servidores y mods integrados.<br>
+  <b>+5 millones de descargas</b> | +50k usuarios mensuales | Integración con Opera
+</p>
+<p>
+  <a href="https://battlylauncher.com">🌐 Sitio web oficial</a><br>
+  <a href="https://discord.gg/tecno-bros-885235460178342009">💬 Comunidad en Discord</a>
 </p>
 
 <br>
- <h1 align=center>
+ <h1>
  Especializaciones y stats
 </h1>
-<p align=center>
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<p>
+[![Mis skills](https://skillicons.dev/icons?perline=8&i=js,nodejs,electron,mongodb,express,html,css,discordjs,docker,linux,git,vscode)](https://skillicons.dev)
 </p>
 
-<p align=center>
+<p>
   <a href="https://github.com/1ly4s0"><img src="https://stats.techy.lol/api?username=1ly4s0&count_private=true&show_icons=true&theme=dark&cache_seconds=7200&hide_title=true&include_all_commits=true&card_width=300" /></a>
   <a href="https://github.com/1ly4s0"><img src="https://stats.techy.lol/api/top-langs/?username=1ly4s0&layout=compact&card_width=306&theme=dark&hide_title=false&langs_count=6" /></a>
   <br>
