@@ -40,7 +40,7 @@
  <h1>
  Especializaciones y stats
 </h1>
-![Mis skills](https://skillicons.dev/icons?perline=8&i=js,nodejs,electron,mongodb,express,html,css,discordjs,linux,git,vscode)
+<img src="https://skillicons.dev/icons?perline=8&i=js,nodejs,electron,mongodb,express,html,css,discordjs,linux,git,vscode">
 
 <p>
   <a href="https://github.com/1ly4s0"><img src="https://stats.techy.lol/api?username=1ly4s0&count_private=true&show_icons=true&theme=dark&cache_seconds=7200&hide_title=true&include_all_commits=true&card_width=300" /></a>
